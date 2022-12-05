@@ -1,6 +1,6 @@
-# WARNING: This repository is no longer maintained :warning:
+# WARNING: The upstream repository `PWParsons/paygate` is no longer maintained :warning:
 
-> This repository will not be updated. The repository will be kept available in read-only mode.
+> This is a simple update to allow use on php 8
 
 <img src="https://repository-images.githubusercontent.com/203629326/d9fb0480-add4-11ea-91ec-99a6638a9496">
 
