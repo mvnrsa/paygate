@@ -1,6 +1,6 @@
 # WARNING: The upstream repository `PWParsons/paygate` is no longer maintained :warning:
 
-> This is a simple update to allow use on php 8
+## This is a simple update by mvnrsa to allow installation together with php 8
 
 <img src="https://repository-images.githubusercontent.com/203629326/d9fb0480-add4-11ea-91ec-99a6638a9496">
 
